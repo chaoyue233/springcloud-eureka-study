@@ -1,0 +1,26 @@
+*.iml
+.idea/
+
+target/
+logs/
+out/
+
+# 前端注释
+# dependencies
+node_modules
+# 前端注释
+# production
+build
+dist
+# 前端注释
+# misc
+.idea/
+.happypack
+.DS_Store
+# 前端注释
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# 前端注释
+# lock file
+*-lock.json
